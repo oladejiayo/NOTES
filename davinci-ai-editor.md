@@ -1,6 +1,7 @@
 
 
 # Multi-cam Sync
+https://brianrossen.com/blog/multicam-sync/
 
 Give Claude Code this repo's link and say something like:
 
